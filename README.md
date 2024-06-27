@@ -17,12 +17,12 @@ Regression
 -   **Best Model:** Dense Neural Network
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [22,2]%
-    -   **Rolls** (2): [28,7]%
-    -   **Croissant** (3): [25,3]%
-    -   **Confectionery** (4): [21,1]%
-    -   **Cake** (5): [17,3]%
-    -   **Seasonal Bread** (6): [41,5]%
+    -   **Bread** (1): 28,2%
+    -   **Rolls** (2): 17,4%
+    -   **Croissant** (3): 24,8%
+    -   **Confectionery** (4): 22,3%
+    -   **Cake** (5): 16,3%
+    -   **Seasonal Bread** (6): 42,2%
 
 ## Documentation
 
